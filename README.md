@@ -19,5 +19,5 @@
 ### How to share bussiness logic between component in ReactJS(HOC, ?)
 ### React useReducer, useContext over Redux. which is better?
 ### What is DOM.
-### 
+### React Memo | useMemo | useCallback - Optimize Performance of your React Applications.
 
