@@ -7,7 +7,7 @@
 ### what is 1 story point indicate in Agile
 ### Difference between waterfall modal VS kanban VS waterfall modal
 ### What is CI(continuos Integration)
-### Lazy Loading in ReactJS
+### Lazy Loading in ReactJS - dynamic import
 ### How to set local storage and cookie from APIs
 ### Optimization in ReactJS
 ### How to ensure code quality
